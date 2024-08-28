@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+h1{
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.row{
+  padding: 20px;
+  justify-content: space-evenly;
+
+}
+.col{
+  position: absolute;
+  justify-content: space-evenly;
+}
